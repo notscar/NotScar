@@ -11,3 +11,7 @@ Languages:
 - Italian
 - English
 - French
+
+Contacts:
+- scar#6666 @ discord.com
+- admin@notscar.xyz
