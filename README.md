@@ -14,4 +14,4 @@ Languages:
 
 Contacts:
 - scar#6666 @ discord.com
-- admin@notscar.xyz
+- admin@notscar.com
