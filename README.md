@@ -17,4 +17,5 @@ Contacts:
 - admin@notscar.com
 - https://notscar.com
 
-![](https://github.com/NotScar/test/blob/master/generated/overview.svg)
+![...](https://github-readme-stats.vercel.app/api?username=NotScar&count_private=true)
+
