@@ -1,7 +1,7 @@
 ### README.MD ( -- )
 
 
-Snr. Developer @ Limitless
+Snr. Developer @ [Limitless](https://github.com/lmtls-game) 
 
 Languages:
 - Python
