@@ -3,25 +3,6 @@
 
 Snr. Developer @ [Limitless](https://github.com/lmtls-game) 
 
-Languages:
-- Python
-- Lua
-- NodeJS
-- SQL
-
-Projects:
-- FiveM Warning System [[@Mitroxs]](https://github.com/Mitroxs) 
-- FiveM Anticheat
-- FiveM Admin Menu [[@Mitroxs]](https://github.com/Mitroxs) 
-- FiveM Limitless Base [[@Mitroxs]](https://github.com/Mitroxs) 
-- FiveM Reworking Limitless Base [[@0xWaleed]](https://github.com/0xWaleed) 
-- FiveM Live Trading System & Ticker [[@Mitroxs]](https://github.com/Mitroxs) 
-- Discord Raid BOT 
-- FiveM Bank Robbery Script Quiz ( Nopixel Style )
-- CFX Ip Finder
-
-
-
 Contacts:
 - scar#6666 @ discord.com
 - admin@notscar.com
