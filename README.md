@@ -1,8 +1,5 @@
 ### README.MD ( -- )
 
-
-Snr. Developer @ [Limitless](https://github.com/lmtls-game) 
-
 Contacts:
 - scar#6666 @ discord.com
 - https://notscar.com
